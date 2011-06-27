@@ -349,6 +349,7 @@ LIST_ARM9="			\
 	jadecpu			\
 	lpd7a400		\
 	magnesium		\
+	mini2416		\
 	mv88f6281gtw_ge		\
 	mx1ads			\
 	mx1fs2			\
